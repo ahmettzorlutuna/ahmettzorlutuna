@@ -7,4 +7,4 @@ Hello there! I'm a passionate web developer with a strong inclination towards le
 * ✉️  You can contact me at [ahmettayyip34349@gmail.com](mailto:ahmettayyip3439@gmail.com)
 * 🧠  I'm learning what I'm interested in
 
-<a href="http://www.github.com/ahmettzorlutuna"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" /></a>
+<a href="http://www.github.com/ahmettzorlutuna"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark" /></a>
