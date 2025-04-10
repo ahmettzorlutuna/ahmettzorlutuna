@@ -8,3 +8,5 @@ Hello there! I'm a passionate web developer with a strong inclination towards le
 * 🧠  I'm learning what I'm interested in
 
 <a href="http://www.github.com/ahmettzorlutuna"><img src="https://github-readme-stats.vercel.app/api?username=ahmettzorlutuna&show_icons=true&theme=dracula" /></a>
+
+<a href="http://www.github.com/ahmettzorlutuna"><img src="https://arabam-blog.mncdn.com/wp-content/uploads/2022/01/paul14-e1549560007363.jpg" /></a>
