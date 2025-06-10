@@ -1,8 +1,6 @@
 ## 👋 Software Developer @ 42 Istanbul | C & JavaScript Enthusiast
 
-I’m a passionate software developer based in Istanbul, Turkey, currently studying the **Common Core** at [42 Istanbul](https://42istanbul.com.tr).
-
-I love being part of any computer‑programming project. My favorite languages are **C** and **JavaScript**; I enjoy building things from scratch and digging into how systems really work. I’m also a big fan of open‑source development and share many of my projects right **[here](https://github.com/ahmettzorlutuna?tab=repositories)** on GitHub.
+I'm a passionate software developer living in Istanbul, Turkey, studying at **Common Core** at [42 Istanbul](https://42istanbul.com.tr) as the Common Core Student. I love being part of development of any computer program. I like coding in C and JavaScript, enjoy building things from scratch and diving deep into how systems really work. I love open source development and I build things on my GitHub profile **[here](https://github.com/ahmettzorlutuna?tab=repositories)**.
 
 Feel free to explore, open an issue, or just say hello!
 
