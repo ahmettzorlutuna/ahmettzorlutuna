@@ -11,4 +11,8 @@ Feel free to explore, open an issue, or just say hello!
 * 🧠  I'm learning what I'm interested in
 * ✉️  You can contact me at [soil.coeval.0y@icloud.com](mailto:soil.coeval.0y@icloud.com)
 
-<a href="http://www.github.com/ahmettzorlutuna"><img src="https://github-readme-stats.vercel.app/api?username=ahmettzorlutuna&show_icons=true&theme=dracula" /></a>
+<details>
+  <summary>More...</summary>
+  <a href="http://www.github.com/ahmettzorlutuna"><img src="https://github-readme-stats.vercel.app/api?username=ahmettzorlutuna&show_icons=true&theme=dracula" /></a>
+</details>
+
