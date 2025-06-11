@@ -1,4 +1,6 @@
-## 👋 Software Developer and Logic Enthusiast
+## Software Developer and Logic Enthusiast
+
+01010011 01000101 01000001 👋
 
 I'm a passionate software developer living in Istanbul, Turkey, studying at [42 Istanbul](https://42istanbul.com.tr) as the Common Core Student. For the past three years I've also worked in IT, gaining hands‑on experience with networks, servers, and everyday Ops. I love being part of development of any computer program. I like coding in C and JavaScript, enjoy building things from scratch and diving deep into how systems really work. I love open source development and I build things on my GitHub profile **[here](https://github.com/ahmettzorlutuna?tab=repositories)**.
 
