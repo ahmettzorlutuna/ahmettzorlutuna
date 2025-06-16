@@ -9,7 +9,7 @@ Feel free to explore, open an issue, or just say hello!
 * 🌍  I'm based in Istanbul
 * 📚  I'm currently studying at 42 Istanbul
 * 🧠  I'm learning what I'm interested in
-* ✉️  You can contact me at [soil.coeval.0y@icloud.com](mailto:soil.coeval.0y@icloud.com)
+* ✉️  You can contact me at [ahmet@teknojax.com](mailto:ahmet@teknojax.com)
 
 <details>
   <summary>More...</summary>
